@@ -13,9 +13,6 @@ Hi!<br>I am Mohamed, a full stack web development student.<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mfg888&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=mfg888&icon=5&color=1)](https://visitcount.itsvg.in)
 
