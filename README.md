@@ -1,5 +1,6 @@
 ## Hi, I'm Mohamed from Saudi Arabia 👨‍💻 
-- 🌱 I’m currently learning full stack web development  
+- UX/UI Designer, graduated from MISK (Mohamed Bin Salman Foundation)
+- Self taught web developer 
 
 <br/>  
 
